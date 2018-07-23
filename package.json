@@ -1,0 +1,16 @@
+{
+  "name": "ble-uart-to-mqtt-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "baconjs": "^2.0.7",
+    "mqtt": "^2.18.3",
+    "serialport": "^6.2.2"
+  }
+}
